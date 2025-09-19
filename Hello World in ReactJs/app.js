@@ -12,6 +12,7 @@ const structureDiv = React.createElement("div", { id: "container" },
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(structureDiv);
 
-// Webpack
-// Vite 
-// Parcel
+// Webpack -> npx create-react-app 
+// Vite -> npm create vite@latest
+// Parcel -> npm init -y && npm install parcel
+// npm 
